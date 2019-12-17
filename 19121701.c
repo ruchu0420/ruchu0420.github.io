@@ -20,7 +20,7 @@ int main(void)
 
 void sort(int x[], int n)
 {
-    int i, j, k, tmp, m;
+    int i, j, k, tmp;
     for (i = 0; i < n - 1; i++)
     {
         k = i;
