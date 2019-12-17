@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define LEN 5
 
-void sort(int x[], int n); 
+void sort(int x[], int n);
 int main(void)
 {
     int a[LEN], i;
